@@ -2,7 +2,7 @@
 
 M.S. in Electrical and Computer Engineering at the University of Michigan. I build machine learning systems across computer vision and LLMs, with a focus on measuring whether they actually work. Previously an AI/ML intern at Ford.
 
-[LinkedIn](https://www.linkedin.com/in/yamini-sri-krubha/) · [Paper](https://arxiv.org/abs/2505.02182) [Paper](https://arxiv.org/abs/2403.08947)
+[LinkedIn](https://www.linkedin.com/in/yamini-sri-krubha/) · [Paper1](https://arxiv.org/abs/2505.02182) ,[Paper2](https://arxiv.org/abs/2403.08947)
 
 ## Projects
 
