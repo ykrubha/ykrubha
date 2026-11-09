@@ -17,3 +17,8 @@ M.S. in Electrical and Computer Engineering at the University of Michigan. I bui
 Each project's README covers how it was evaluated and its limitations.
 
 **Tools:** Python, PyTorch, LoRA, vLLM, FastAPI, OpenCV, SQL
+
+## Publications
+
+- **Robust AI-Generated Face Detection with Imbalanced Data.** Y. S. Krubha, A. Hou, B. Vester, W. Walker, X. Wang, L. Lin, S. Hu. arXiv:2505.02182, 2025. [Paper](https://arxiv.org/abs/2505.02182)
+- **Robust COVID-19 Detection in CT Images with CLIP.** L. Lin, Y. S. Krubha, Z. Yang, C. Ren, T. D. Le, I. Amerini, X. Wang, S. Hu. arXiv:2403.08947, 2024. [Paper](https://arxiv.org/abs/2403.08947)
