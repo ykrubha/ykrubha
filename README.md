@@ -2,7 +2,7 @@
 
 M.S. in Electrical and Computer Engineering at the University of Michigan. I build machine learning systems across computer vision and LLMs, with a focus on measuring whether they actually work. Previously an AI/ML intern at Ford.
 
-[LinkedIn](https://www.linkedin.com/in/yamini-sri-krubha/) · [Paper1](https://arxiv.org/abs/2505.02182) ,[Paper2](https://arxiv.org/abs/2403.08947)
+[LinkedIn](https://www.linkedin.com/in/yamini-sri-krubha/) · [Publications](#publications)
 
 ## Projects
 
@@ -20,5 +20,5 @@ Each project's README covers how it was evaluated and its limitations.
 
 ## Publications
 
-- **Robust AI-Generated Face Detection with Imbalanced Data.** Y. S. Krubha, A. Hou, B. Vester, W. Walker, X. Wang, L. Lin, S. Hu. arXiv:2505.02182, 2025. [Paper](https://arxiv.org/abs/2505.02182)
+- **Robust AI-Generated Face Detection with Imbalanced Data.** Y. S. Krubha, A. Hou, B. Vester, W. Walker, X. Wang, L. Lin, S. Hu. IEEE MIPR 2025 (first author) · arXiv:2505.02182. [Paper](https://arxiv.org/abs/2505.02182)
 - **Robust COVID-19 Detection in CT Images with CLIP.** L. Lin, Y. S. Krubha, Z. Yang, C. Ren, T. D. Le, I. Amerini, X. Wang, S. Hu. arXiv:2403.08947, 2024. [Paper](https://arxiv.org/abs/2403.08947)
